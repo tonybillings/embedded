@@ -15,3 +15,5 @@ This is a collection of embedded systems and IoT projects I pursued for fun, dat
 | [WiFi to IR Transmitter](WiFi%20to%20IR%20Transmitter) | Android app and Wi-Fi-to-IR bridge devices for controlling a projector, receiver and Roku from a phone. |
 | [Bitmap Converter](Bitmap%20Converter) | C# tool that compresses images into flash-resident, run-length-encoded C++ for microcontroller displays. |
 | [C# Event System in C++](C%23%20Event%20System%20in%20C++) | STL-free, C++03 header-only library that brings .NET-style events to embedded code. |
+
+![](overview.jpg) 
